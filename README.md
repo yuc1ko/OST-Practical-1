@@ -33,7 +33,7 @@ Q5. Rename sister folder into my name
 
 1. cd ~/Desktop/myfolder
 
-2. mv sister ankit
+2. mv sister spicyuuu
 
 Q6. List the created folders using name
 
